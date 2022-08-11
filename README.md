@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjvlstuff%2FJavaVulnerableLab_for_AST.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjvlstuff%2FJavaVulnerableLab_for_AST?ref=badge_shield)
+
 ![](https://github.com/CheckmarxDev/NodeGoat-test/workflows/cx/badge.svg)
 
 This is a "Vulnerable" Web Application developed by Cyber Security and Privacy Foundation(www.cysecurity.org). This app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code.123
@@ -79,3 +81,7 @@ https://github.com/CSPF-Founder/VulnerableSpring
 
 trigger scan
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjvlstuff%2FJavaVulnerableLab_for_AST.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjvlstuff%2FJavaVulnerableLab_for_AST?ref=badge_large)
